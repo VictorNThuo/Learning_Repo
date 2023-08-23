@@ -1,2 +1,2 @@
 # Learning_Repo
-I post my own learning scripts for both R and Python here
+This repo contains documents, files and resources that I have been using in my data science journey.
